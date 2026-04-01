@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: commons
+Version: 0.0.1
+Summary: short package description
+Home-page: package URL
+Author: author
+Author-email: author@example.com
+Project-URL: Bug Tracker, package issues URL
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: License.txt
+
+# `commonUtil`
+
+The `commonUtil` is a simple testing example to understand the basics of developing your first Python package.

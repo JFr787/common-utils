@@ -1,0 +1,10 @@
+[project]
+name = "common-utils"
+version = "0.1.0"
+description = "Common Python utilities"
+authors = [JF]
+requires-python = ">=3.11"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

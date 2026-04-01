@@ -1,0 +1,12 @@
+License.txt
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/commons.egg-info/PKG-INFO
+src/commons.egg-info/SOURCES.txt
+src/commons.egg-info/dependency_links.txt
+src/commons.egg-info/top_level.txt
+src/db_operations/__init__.py
+src/db_operations/db_handler.py
+test/test_db_handler.py
