@@ -6,6 +6,7 @@ authors = [
   { name = "JF" }
 ]
 requires-python = ">=3.11"
+readme = "README.md"
 
 [build-system]
 requires = ["setuptools"]
